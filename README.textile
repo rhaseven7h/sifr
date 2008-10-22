@@ -1,11 +1,15 @@
-What is sIFR
+h1. What is sIFR[1]
 
-sIFR (or Scalable Inman Flash Replacement) is a technology that allows you to replace text elements on screen with Flash equivalents. sIFR is the result of many hundreds of hours of designing, scripting, testing, and debugging by Mike Davidson and Mark Wubben. Mike, Mark and an invaluable stable of beta testers, supporters, and educators like Stephanie Sullivan and Danilo Celic of Community MX completely rebuilt a DOM replacement method originally conceived by Shaun Inman into a high quality cross-browser, cross-platform typography solution for the masses.
+*sIFR* (or Scalable Inman Flash Replacement) is a technology that allows you to replace text elements on screen with Flash equivalents. *sIFR* is the result of many hundreds of hours of designing, scripting, testing, and debugging by Mike Davidson and Mark Wubben. Mike, Mark and an invaluable stable of beta testers, supporters, and educators like Stephanie Sullivan and Danilo Celic of Community MX completely rebuilt a DOM replacement method originally conceived by Shaun Inman into a high quality cross-browser, cross-platform typography solution for the masses.
 
-The current sIFR release is version 2.0.6. sIFR is released to the world as open source, under the GNU Lesser General Public License (see human-readable summary at Creative Commons), so anyone can use it free of charge.
+The current *sIFR* release is version 2.0.6. *sIFR* is released to the world as open source, under the GNU Lesser General Public License (see human-readable summary at Creative Commons), so anyone can use it free of charge.
 
-Put simply, sIFR allows website headings, pull-quotes and other elements to be styled in whatever font the designer chooses - be that Foundry Monoline, Gill Sans, Impact, Frutiger or any other font - without the user having it installed on their machine.
+Put simply, *sIFR* allows website headings, pull-quotes and other elements to be styled in whatever font the designer chooses - be that Foundry Monoline, Gill Sans, Impact, Frutiger or any other font - without the user having it installed on their machine.
 
-sIFR requires JavaScript to be enabled and the Flash plugin installed in the reading browser. If either condition is not met, the reader's browser will automatically display traditional CSS based styling - the user won't know the difference.
+*sIFR* requires JavaScript to be enabled and the Flash plugin installed in the reading browser. If either condition is not met, the reader's browser will automatically display traditional CSS based styling - the user won't know the difference.
 
-Take a look at the examples page to see some examples of sIFR in action.
+Take a look at the examples page to see some examples of *sIFR* in action.
+
+"Visit sIFR Official Page":http://wiki.novemberborn.net/sifr.
+
+fn1. This is JUST an upload of version 2.0.7 to GitHub. sIFR WILL NOT BE DEVELOPED HERE, EVER.
